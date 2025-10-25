@@ -1,0 +1,9 @@
+vailla_latte : 2500
+iced_americano : 1500
+mocha_latte : 2500
+vailla_latte : 2500
+americano : 1500
+straberry_milk : 1000
+strawberry_ade : 2500
+
+price total : 14000

@@ -1,0 +1,8 @@
+과목명		학점	성적
+AdvancedCProgramming	3	A+
+Math		3	C+
+Science	3	B+
+Computing	3	B0
+Physics	2	A+
+Chemistry	3	D0
+Soccer	1	A0
