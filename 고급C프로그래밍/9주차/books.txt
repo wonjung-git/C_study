@@ -1,0 +1,22 @@
+Book_Name		Count
+C programming		2
+C Express			2
+C language understanding	2
+Computer Netwoking	0
+Data Structure		1
+Signal Processing Basics	1
+Bricks Reading		0
+Be Your Future Self Now	2
+The Mind			0
+Future Self		1
+Computer Architecture	0
+Empire of The Ants	0
+Harry Potter		0
+Sherlock Holmes		2
+Principle of Physics		0
+Sport Physiology for Coaches	1
+Understanding Motor Development	1
+Numerical Analysis		1
+PYTHON : PROGRAMMING IN CONTEXT	0
+Operating Systems		1
+Storytelling with data	0
