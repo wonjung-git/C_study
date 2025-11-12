@@ -1,0 +1,100 @@
+book_name count
+A_Clockwork_Orange 100
+A_Passage_to_India 7
+Agnes_Grey 0
+Alice's_Adventures_in_Wonderland 8
+Anna_Karenina 100
+Around_the_World_in_Eighty_Days 100
+Be Your Future Self Now 100
+Bricks Reading 100
+C Express 100
+C language understanding 100
+C programming 100
+Catch-22 100
+Computer Architecture 100
+Computer Netwoking 100
+Crime_and_Punishment 100
+Cranford 100
+David_Copperfield 100
+Death_in_Venice 100
+Don_Quixote 100
+Dracula 100
+Empire of The Ants 100
+Emma 100
+Fahrenheit_451 100
+Frankenstein 100
+Future Self 100
+Gulliver's_Travels 100
+Hamlet 100
+Harry Potter 100
+Heart_of_Darkness 100
+Invisible_Man 100
+Jane_Eyre 100
+Les_Misérables 100
+Little_Women 100
+Lord_Jim 100
+Macbeth 100
+Madame_Bovary 100
+Mansfield_Park 100
+Middlemarch 100
+Moby-Dick 100
+North_and_South 100
+Northanger_Abbey 100
+Numerical Analysis 100
+Oliver_Twist 100
+Operating Systems 100
+Persuasion 100
+Pride_and_Prejudice 100
+Principle of Physics 100
+PYTHON : PROGRAMMING IN CONTEXT 100
+Robinson_Crusoe 100
+Sense_and_Sensibility 100
+Sherlock Holmes 100
+Signal Processing Basics 100
+Silas_Marner 100
+Slaughterhouse-Five 100
+Sport Physiology for Coaches 100
+Steppenwolf 100
+Storytelling with data 100
+Tess_of_the_d'Urbervilles 100
+The Adventures of Huckleberry Finn 100
+The Aeneid 100
+The Bell Jar 100
+The Brothers Karamazov 100
+The_Canterbury_Tales 100
+The Catch-22 100
+The_Count_of_Monte_Cristo 100
+The_Divine_Comedy 100
+The_Grapes_of_Wrath 100
+The Great Gatsby 100
+The_Iliad 100
+The_Inferno 100
+The_Jungle_Book 100
+The_Master_and_Margarita 100
+The_Mayor_of_Casterbridge 100
+The_Merchant_of_Venice 100
+The_Mill_on_the_Floss 100
+The_Mind 100
+The Moonstone 100
+The_Odyssey 100
+The_Plague 100
+The_Portrait_of_a_Lady 100
+The_Possessed 100
+The_Return_of_the_Native 100
+The_Scarlet_Letter 100
+The_Sound_and_the_Fury 100
+The_Tempest 100
+The_Tenant_of_Wildfell_Hall 100
+The_Three_Musketeers 100
+The_War_of_the_Worlds 100
+The_Way_of_All_Flesh 100
+The_Woman_in_White 100
+The magic mountain 100
+To Kill a Mockingbird 100
+To the Lighthouse 100
+Treasure_Island 100
+Understanding Motor Development 100
+Vanity_Fair 100
+War_and_Peace 100
+White_Fang 100
+Wuthering_Heights 100

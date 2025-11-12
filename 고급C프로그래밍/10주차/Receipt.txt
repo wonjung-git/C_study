@@ -1,0 +1,9 @@
+======================
+       Receipt
+======================
+cappuccino            1      2.99
+strawberry_milk       1      1.99
+Tiramisu              1      6.99
+Cheesecake            1      5.79
+======================
+Total :                          17.76
