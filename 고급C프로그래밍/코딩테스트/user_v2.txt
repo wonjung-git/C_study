@@ -1,0 +1,10 @@
+selly	pass123	x
+john	johnjohn	o
+kim	kwang	o
+jully	1234	o
+emily	emailpass	o
+sophia	sssss	o
+grace	password	x
+lily	asf	o
+mia	aaaaaa	x
+lucy	werwer	x

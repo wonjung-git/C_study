@@ -1,0 +1,5 @@
+mia	Electric Bike C-Type	0
+selly	Electric Bike C-Type	0
+selly	Fixie Bike Fix-01	1
+mia	Fixie Bike Fix-01	0
+selly	Urban Bike Urban-Alpha	2
